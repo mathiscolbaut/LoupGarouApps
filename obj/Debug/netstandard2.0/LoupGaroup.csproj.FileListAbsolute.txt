@@ -1,0 +1,16 @@
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\bin\Debug\netstandard2.0\LoupGaroup.deps.json
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\bin\Debug\netstandard2.0\LoupGaroup.dll
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\bin\Debug\netstandard2.0\LoupGaroup.pdb
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\LoupGaroup.csproj.AssemblyReference.cache
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\LoupGaroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\LoupGaroup.AssemblyInfoInputs.cache
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\LoupGaroup.AssemblyInfo.cs
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\LoupGaroup.csproj.CoreCompileInputs.cache
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\LoupGaroup.dll
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\refint\LoupGaroup.dll
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\LoupGaroup.pdb
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\ref\LoupGaroup.dll
+D:\Project Perso\LoupGarou\LoupGaroup\LoupGaroup\obj\Debug\netstandard2.0\Pages\Accueil.xaml.g.cs

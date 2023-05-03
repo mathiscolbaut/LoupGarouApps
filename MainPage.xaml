@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:LoupGaroup.Pages"
+             x:Class="LoupGaroup.MainPage">
+
+    <Grid>
+        <Image Source="Jour.png" Aspect="AspectFill" />
+        <StackLayout  VerticalOptions="CenterAndExpand">
+            <Label x:Name="connect" FontSize="30" FontAttributes="Bold" TextColor="White" HorizontalOptions="Center">Se connecter</Label>
+            <Entry x:Name="mail" Margin="100,0,100,0"  Placeholder="Entrez votre mail."/>
+            <Entry x:Name="mdp" Margin="100,0,100,0" Placeholder="Entrez votre mot de passe." />
+            <Button Text="se connecter" Margin="100,0,100,0" Clicked="VerifConnect" Background="white" HeightRequest="50" WidthRequest="50"></Button>
+
+            
+            
+            <Button  Text="s'inscrire" Margin="100,0,100,0"  Background="white" HeightRequest="50"></Button>
+            <Label x:Name="connectOuiNon" FontSize="20" FontAttributes="Bold" Margin="100,0,100,0"></Label>
+            
+
+        </StackLayout>
+    </Grid>
+
+    
+</ContentPage>
