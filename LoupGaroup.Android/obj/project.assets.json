@@ -1788,21 +1788,6 @@
         "build": {
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        }
       }
     }
   },
@@ -3437,16 +3422,10 @@
         "xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
-    },
-    "LoupGaroup/1.0.0": {
-      "type": "project",
-      "path": "../LoupGaroup/LoupGaroup.csproj",
-      "msbuildProject": "../LoupGaroup/LoupGaroup.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v12.0": [
-      "LoupGaroup >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
@@ -3459,11 +3438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.Android\\LoupGaroup.Android.csproj",
+      "projectUniqueName": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.Android\\LoupGaroup.Android.csproj",
       "projectName": "LoupGaroup.Android",
-      "projectPath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.Android\\LoupGaroup.Android.csproj",
+      "projectPath": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.Android\\LoupGaroup.Android.csproj",
       "packagesPath": "C:\\Users\\colbaut mathis\\.nuget\\packages\\",
-      "outputPath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.Android\\obj\\",
+      "outputPath": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3483,11 +3462,7 @@
       },
       "frameworks": {
         "monoandroid12.0": {
-          "projectReferences": {
-            "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup\\LoupGaroup.csproj": {
-              "projectPath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup\\LoupGaroup.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

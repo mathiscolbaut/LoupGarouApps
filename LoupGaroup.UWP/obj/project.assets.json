@@ -676,21 +676,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-arm": {
@@ -1535,21 +1520,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
         }
       }
     },
@@ -2397,21 +2367,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-arm64-aot": {
@@ -3254,21 +3209,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
         }
       }
     },
@@ -4114,21 +4054,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
         }
       }
     },
@@ -4976,21 +4901,6 @@
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
         }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-x86": {
@@ -5835,21 +5745,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
         }
       }
     },
@@ -6696,21 +6591,6 @@
         "build": {
           "buildTransitive/Xamarin.Forms.props": {},
           "buildTransitive/Xamarin.Forms.targets": {}
-        }
-      },
-      "LoupGaroup/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Xamarin.Essentials": "1.7.0",
-          "Xamarin.Forms": "5.0.0.2196"
-        },
-        "compile": {
-          "bin/placeholder/LoupGaroup.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoupGaroup.dll": {}
         }
       }
     }
@@ -11490,16 +11370,10 @@
         "xamarin.forms.5.0.0.2196.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "LoupGaroup/1.0.0": {
-      "type": "project",
-      "path": "../LoupGaroup/LoupGaroup.csproj",
-      "msbuildProject": "../LoupGaroup/LoupGaroup.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.16299": [
-      "LoupGaroup >= 1.0.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.12",
       "Newtonsoft.Json >= 13.0.3",
       "Xamarin.Essentials >= 1.7.0",
@@ -11514,11 +11388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.UWP\\LoupGaroup.UWP.csproj",
+      "projectUniqueName": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.UWP\\LoupGaroup.UWP.csproj",
       "projectName": "LoupGaroup.UWP",
-      "projectPath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.UWP\\LoupGaroup.UWP.csproj",
+      "projectPath": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.UWP\\LoupGaroup.UWP.csproj",
       "packagesPath": "C:\\Users\\colbaut mathis\\.nuget\\packages\\",
-      "outputPath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.UWP\\obj\\",
+      "outputPath": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -11539,11 +11413,7 @@
       },
       "frameworks": {
         "uap10.0.16299": {
-          "projectReferences": {
-            "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup\\LoupGaroup.csproj": {
-              "projectPath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup\\LoupGaroup.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },

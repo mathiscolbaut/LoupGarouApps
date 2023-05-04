@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kpG2dMXuON4npnvLhEACG2GDU+Jh6XfYFO3p9dtQS15Jk3QRirOOEKrZojxaH7UMTcIc12vdii8+meYWRyDaGQ==",
+  "dgSpecHash": "VDKO2aGw/pLuDCa7vRZ6nd18LKN27hHNqQZUsb/VJoPpwXqswcJzgvj93qDEKBGvQZNu2yzbBMeRQ0UlgvsSzQ==",
   "success": true,
-  "projectFilePath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.iOS\\LoupGaroup.iOS.csproj",
+  "projectFilePath": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.iOS\\LoupGaroup.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\colbaut mathis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\colbaut mathis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

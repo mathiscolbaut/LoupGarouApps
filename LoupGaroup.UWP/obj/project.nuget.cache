@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TULcWFfsIf6CiXv+jrlKZ9pF5Fi2/y8b/AXK8Jf+An3aohpssoKI3dNJIV4KcUcLzTmqHUiI8zSdUbFfoQI75g==",
+  "dgSpecHash": "KLE6ZEkW1xBz1V4ySpYDbQnrRBT1vyLjtlc9jOuAiSzaI37nWUm6DsnB/erDNEj9x+yG7SczcUfaFnMNwBNQiw==",
   "success": true,
-  "projectFilePath": "D:\\Project Perso\\LoupGarou\\LoupGaroup\\LoupGaroup.UWP\\LoupGaroup.UWP.csproj",
+  "projectFilePath": "D:\\Project Perso\\LoupGarouAll\\LoupGarou\\LoupGaroup.UWP\\LoupGaroup.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\colbaut mathis\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\colbaut mathis\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",
